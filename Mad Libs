@@ -9,13 +9,13 @@ public class MadLibs    {
       String name1 = "Roslynd";
       String name2 = "Jemini";
       String adjective1 = "wonderful";
-      String adjective2 = "humble";
+      String adjective2 = "quarky";
       String adjective3 = "afraid";
       String noun1 = "skirt";
-      String noun2 = "water bottle";
+      String noun2 = "water bottles";
       String noun3 = "stapler";
       String noun4 = "zoo";
-      String noun5 = "dragonfly";
+      String noun5 = "dragonflies";
       String noun6 = "flour";
       String place1 = "Io";
       String verb1 = "skate";
