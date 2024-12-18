@@ -1,0 +1,20 @@
+public class GuessingGame   {
+
+    public static void main(String[] args)  {
+
+        int mystery1 = 8 + 6; // This equals 14
+        int mystery2 = 8 - 6; // This equals 2
+
+
+        // Check which variable equals 2 and print its name
+
+        if (mystery1 == 2) {
+            System.out.println("mystery1");
+        }
+
+        else if (mystery2 == 2)    {
+            System.out.println("mystery2");
+        }
+
+    }
+}
