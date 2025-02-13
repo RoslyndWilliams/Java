@@ -1,5 +1,5 @@
 /**
-* This program creates a basic loop using the "for" keywords and a variable named "i"
+* This program creates a basic loop using the "for" keyword and a variable named "i"
 */
 
 package iForLoop;
